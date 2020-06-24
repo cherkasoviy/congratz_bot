@@ -19,15 +19,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf8a1d00-7206-4ebf-9144-49826e1959e1" name="Default Changelist" comment="2 lines added test branch">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="cf8a1d00-7206-4ebf-9144-49826e1959e1" name="Default Changelist" comment="Final22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp22.js" beforeDir="false" afterPath="$PROJECT_DIR$/temp22.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +36,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1dlpxQxQpFHPwS64x6CNOYrbGiQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593009779846</updated>
-      <workItem from="1593009786242" duration="2339000" />
+      <workItem from="1593009786242" duration="3855000" />
     </task>
     <task id="LOCAL-00001" summary="2 lines added">
       <created>1593011404664</created>
@@ -96,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593011609881</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final22">
+      <created>1593012171032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593012171032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +110,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -131,6 +146,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 lines added" />
     <MESSAGE value="2 lines added test branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 lines added test branch" />
+    <MESSAGE value="Final22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final22" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="112" y="77" key="MergeDialog" timestamp="1593012155361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="112" y="77" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593012155361" />
+    <state x="526" y="272" key="MultipleFileMergeDialog" timestamp="1593012155367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="272" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593012155367" />
   </component>
 </project>
