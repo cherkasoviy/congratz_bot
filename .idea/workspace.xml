@@ -24,7 +24,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf8a1d00-7206-4ebf-9144-49826e1959e1" name="Default Changelist" comment="">
+    <list default="true" id="cf8a1d00-7206-4ebf-9144-49826e1959e1" name="Default Changelist" comment="2 lines added test branch">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp22.js" beforeDir="false" afterPath="$PROJECT_DIR$/temp22.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +55,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -65,8 +73,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593009779846</updated>
-      <workItem from="1593009786242" duration="1542000" />
+      <workItem from="1593009786242" duration="2339000" />
     </task>
+    <task id="LOCAL-00001" summary="2 lines added">
+      <created>1593011404664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593011404664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2 lines added test branch">
+      <created>1593011575233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593011575233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2 lines added test branch">
+      <created>1593011609881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593011609881</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +112,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 lines added" />
+    <MESSAGE value="2 lines added test branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 lines added test branch" />
   </component>
 </project>
