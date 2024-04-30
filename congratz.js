@@ -51,7 +51,8 @@ function writemembers(filename, data) {
 bot.on('text', function(msg) {
 	writemembers('data.json', msg);
 	if(msg.from.id === 34548632 && msg.chat.id > 0) {
-		bot.sendMessage(34548632, 'I am fine');
+		bot.sendMessage(-1001048446549, msg.text);
+		bot.sendSticker(-1001048446549, 'CAADAgADkAEAAhmGAwABS5c7xXaQRRYC');
 	}
 });
 var job = new CronJob('00 01 00 * * *', function() {

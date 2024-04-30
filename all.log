@@ -597,3 +597,116 @@
   "date": 1501570444,
   "text": "Почитал комменты зачем-то там"
 }
+#-------------------------------
+27.3.2024 12:26:0
+#-------------------------------
+{
+  "message_id": 637486,
+  "from": {
+    "id": 118301981,
+    "is_bot": false,
+    "first_name": "Yuliya",
+    "last_name": "Kirpicheva",
+    "username": "JudyBricks",
+    "is_premium": true
+  },
+  "chat": {
+    "id": -1001048446549,
+    "title": "Бабканы",
+    "type": "supergroup"
+  },
+  "date": 1714184657,
+  "message_thread_id": 637473,
+  "reply_to_message": {
+    "message_id": 637473,
+    "from": {
+      "id": 60307514,
+      "is_bot": false,
+      "first_name": "ditex",
+      "username": "ditex85"
+    },
+    "chat": {
+      "id": -1001048446549,
+      "title": "Бабканы",
+      "type": "supergroup"
+    },
+    "date": 1714181636,
+    "text": "@JudyBricks Юля поздравляю с днём рождения. Художественных успехов тебе и самореализации 🫶",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 11,
+        "type": "mention"
+      }
+    ]
+  },
+  "text": "спасибо ☺"
+}type": "mention"
+      }
+    ]
+  },
+  "text": "спасибо, Абра :)"
+}
+#-------------------------------
+27.3.2024 12:37:24
+#-------------------------------
+{
+  "message_id": 37,
+  "from": {
+    "id": 118301981,
+    "is_bot": false,
+    "first_name": "Yuliya",
+    "last_name": "Kirpicheva",
+    "username": "JudyBricks",
+    "is_premium": true
+  },
+  "chat": {
+    "id": -1002039988361,
+    "title": "Big in Japan",
+    "type": "supergroup"
+  },
+  "date": 1714185444,
+  "text": "пиу"
+}
+#-------------------------------
+27.3.2024 12:45:46
+#-------------------------------
+{
+  "message_id": 637488,
+  "from": {
+    "id": 86179108,
+    "is_bot": false,
+    "first_name": "Татьяна",
+    "last_name": "Дмитриева",
+    "username": "DmitrievaT",
+    "language_code": "ru",
+    "is_premium": true
+  },
+  "chat": {
+    "id": -1001048446549,
+    "title": "Бабканы",
+    "type": "supergroup"
+  },
+  "date": 1714185946,
+  "message_thread_id": 637475,
+  "reply_to_message": {
+    "message_id": 637487,
+    "from": {
+      "id": 118301981,
+      "is_bot": false,
+      "first_name": "Yuliya",
+      "last_name": "Kirpicheva",
+      "username": "JudyBricks",
+      "is_premium": true
+    },
+    "chat": {
+      "id": -1001048446549,
+      "title": "Бабканы",
+      "type": "supergroup"
+    },
+    "date": 1714184682,
+    "message_thread_id": 637475,
+    "text": "спасибо :)"
+  },
+  "text": "Юля, с Днем Рождения! 🎉 \nЧтоб все получалось, все улыбались и здоровья много-много! 🎈🌷🌷🌷"
+}
