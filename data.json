@@ -143,15 +143,17 @@
       "chatId": -1001048446549,
       "id": 63620017,
       "first_name": "Vodalus",
-      "BirthDay": "BLANK",
-      "BirthMonth": "BLANK"
+      "username": "Vodalus",
+      "BirthDay": 31,
+      "BirthMonth": 5
     },
     {
       "chatId": -1001048446549,
       "id": 61523126,
       "first_name": "Aleksandr",
-      "BirthDay": "BLANK",
-      "BirthMonth": "BLANK"
+      "username": "vtmonk",
+      "BirthDay": 26,
+      "BirthMonth": 3
     },
     {
       "chatId": -1001048446549,
@@ -166,8 +168,8 @@
       "id": 62750364,
       "first_name": "Tmn🦀",
       "username": "timan",
-      "BirthDay": "BLANK",
-      "BirthMonth": "BLANK"
+      "BirthDay": 29,
+      "BirthMonth": 6
     },
     {
       "chatId": -35947507,
@@ -181,8 +183,9 @@
       "chatId": -1001048446549,
       "id": 52908615,
       "first_name": "Alexander",
-      "BirthDay": "BLANK",
-      "BirthMonth": "BLANK"
+      "username": "zmeicha",
+      "BirthDay": 15,
+      "BirthMonth": 1
     },
     {
       "chatId": -1001035457905,
@@ -196,24 +199,24 @@
       "id": 182570200,
       "first_name": "Evgeny",
       "username": "Fnooby",
-      "BirthDay": "BLANK",
-      "BirthMonth": "BLANK"
+      "BirthDay": 3,
+      "BirthMonth": 7
     },
     {
       "chatId": -1002039988361,
       "id": 118301981,
       "first_name": "Yuliya",
       "username": "JudyBricks",
-      "BirthDay": "BLANK",
-      "BirthMonth": "BLANK"
+      "BirthDay": 27,
+      "BirthMonth": 4
     },
     {
       "chatId": -1001048446549,
       "id": 86179108,
       "first_name": "Татьяна",
       "username": "DmitrievaT",
-      "BirthDay": "BLANK",
-      "BirthMonth": "BLANK"
+      "BirthDay": 18,
+      "BirthMonth": 3
     }
   ]
 }
