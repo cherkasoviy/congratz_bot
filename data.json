@@ -73,16 +73,16 @@
       "id": 60677426,
       "first_name": "Vyacheslav",
       "username": "PokeZayac",
-      "BirthDay": 10,
-      "BirthMonth": 4
+      "BirthDay": 4,
+      "BirthMonth": 10
     },
     {
       "chatId": -1001048446549,
       "id": 56357973,
       "first_name": "Ксения",
       "username": "ksana579",
-      "BirthDay": 18,
-      "BirthMonth": 7
+      "BirthDay": 22,
+      "BirthMonth": 6
     },
     {
       "chatId": -1001048446549,
@@ -249,6 +249,125 @@
       "username": "diceqq",
       "BirthDay": 25,
       "BirthMonth": 4
+    },
+    {
+      "chatId": -12073102,
+      "id": 64752189,
+      "first_name": "Igor",
+      "username": "Igor_Panshin",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -12073102,
+      "id": 64795603,
+      "first_name": "Иван",
+      "username": "ikbarinov",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -12073102,
+      "id": 30975838,
+      "first_name": "Oleg",
+      "username": "whereismysnake",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001048446549,
+      "id": 212008347,
+      "first_name": "Psionick",
+      "username": "Psionick",
+      "BirthDay": 6,
+      "BirthMonth": 12
+    },
+    {
+      "chatId": -1001035457905,
+      "id": 113294931,
+      "first_name": "Mariia",
+      "username": "Mariia_ES",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001035457905,
+      "id": 32886596,
+      "first_name": "Alen",
+      "username": "AlenGukasyan",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001035457905,
+      "id": 178800710,
+      "first_name": "Татьяна",
+      "username": "Aigsil",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001048446549,
+      "id": 484883097,
+      "first_name": "Владимир",
+      "username": "vkulik7",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001035457905,
+      "id": 66294572,
+      "first_name": "Константин",
+      "username": "KonstAd",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001048446549,
+      "id": 30239672,
+      "first_name": "1van",
+      "username": "ivandevil",
+      "BirthDay": 24,
+      "BirthMonth": 7
+    },
+    {
+      "chatId": -1001048446549,
+      "id": 131489703,
+      "first_name": "Надежда",
+      "username": "Poryadok_pro",
+      "BirthDay": 13,
+      "BirthMonth": 11
+    },
+    {
+      "chatId": -1001035457905,
+      "id": 234893887,
+      "first_name": "Nastia",
+      "username": "kuch_kuch",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001048446549,
+      "id": 180350323,
+      "first_name": "Анастасия",
+      "username": "a_sundenko",
+      "BirthDay": 26,
+      "BirthMonth": 10
+    },
+    {
+      "chatId": 2069167913,
+      "id": 2069167913,
+      "first_name": "Michael",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
+    },
+    {
+      "chatId": -1001035457905,
+      "id": 266471179,
+      "first_name": "Alex",
+      "username": "mazzafaza",
+      "BirthDay": "BLANK",
+      "BirthMonth": "BLANK"
     }
   ]
 }
